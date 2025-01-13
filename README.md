@@ -23,6 +23,12 @@ This guide provides an in-depth roadmap for learning the best development stacks
 ### Overview
 One of the most respected technological tools for full-stack web development is still the MERN stack It is robust, flexible, and ideal for creating new web-based applications.
 
+### Why Learn MERN in 2025? 🤔
+- **Scalability**: Offers a robust and fault-tolerant solution.
+- **Popularity**: React leads in front-end development, and Node.js is widely adopted for back-end services.
+- **Full-Stack JavaScript**: Seamless development experience using JavaScript throughout.
+
+
 ### Key Tools
 - **Frontend:** React.js, Redux, React Router
 - **Backend:** Node.js, Express.js
@@ -46,6 +52,10 @@ One of the most respected technological tools for full-stack web development is 
 - **Courses:**
   - [MERN Stack Developer Roadmap 2025 - DEV Community](https://dev.to/engrsakib/master-the-mern-stack-your-complete-guide-to-becoming-a-full-stack-developer-in-2025-with-16m3) 📖
   - [Udemy - The Complete MERN Stack Developer Course](https://www.udemy.com/course/mern-stack-front-to-back/) 🎥
+  - **MERN Stack Front To Back [2022]**: [YouTube](https://www.youtube.com/watch?v=mrHNSanmqQ4&t=0s)
+  - **Full-Stack MERN Tutorial**: [YouTube](https://www.youtube.com/watch?v=CvCiNeLnZ00)
+
+
 
 ![MERN Stack](https://miro.medium.com/max/1400/1*oW-Y1pij7pYvPj5JzJ4GPw.gif)
 
@@ -76,7 +86,8 @@ The MEVN stack offers a great alternative to MERN with Vue.js as the front-end f
   - [Vue Mastery - Vue.js Courses](https://www.vuemastery.com/) 📖
   - [YouTube - Vue.js Crash Course](https://www.youtube.com/results?search_query=vuejs+crash+course) 🎥
   - [YouTube - MEVN Stack Tutorial Playlist](https://www.youtube.com/playlist?list=PL6u82dzQtlfs88r-Q1_1L0ZnV8aB1KL0S) 🎥 
-  - [YouTube - Learn MEVN in One Video](https://www.youtube.com/watch?v=vr6O-IYebXA) 🎥 
+  - [YouTube - Learn MEVN in One Video](https://www.youtube.com/watch?v=vr6O-IYebXA) 🎥
+
 
 ![Vue.js](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 ---
@@ -121,7 +132,7 @@ The T3 stack combines TypeScript with Next.js for enhanced type safety and perfo
 ### Roadmap 🛣️
 1. **TypeScript**: Learn typed JavaScript for better code quality.
 2. **Next.js**: Build server-rendered React apps.
-3. **tRPC**: Implement type-safe APIs.
+3. **tRPC**: Build end-to-end type-safe APIs with minimal overhead.
 4. **Tailwind CSS**: Style apps with utility-first CSS.
 5. **Prisma**: Manage databases with an ORM for Node.js.
 
@@ -132,8 +143,11 @@ The T3 stack combines TypeScript with Next.js for enhanced type safety and perfo
 - **Prisma**: [Prisma Docs](https://www.prisma.io/docs/)
 - **YouTube**: [T3 Stack Crash Course](https://www.youtube.com/watch?v=YkOSUVzOAA4)
 - **Courses:**
-  - [Complete Guide to Next.js on Udemy](https://www.udemy.com/course/complete-guide-to-nextjs/) 📖
   - [YouTube - Next.js & TypeScript Crash Course](https://www.youtube.com/results?search_query=nextjs+typescript+tutorial) 🎥
+  - **Full-Stack T3 Stack Tutorial**: [YouTube](https://www.youtube.com/watch?v=YkOSUVzOAA4)  
+  - **Learn Tailwind CSS in 30 Minutes**: [YouTube](https://www.youtube.com/watch?v=dFgzHOX84xQ)  
+  - **Next.js Full-Stack Guide**: [YouTube](https://www.youtube.com/watch?v=6fNy0iD3hsk)  
+
 
 ![T3 Stack](https://media.giphy.com/media/xUPGcl3ijl0jPZ5JXa/giphy.gif)
 ---
@@ -159,7 +173,7 @@ Flutter is ideal for cross-platform mobile app development with a single codebas
 - **YouTube**: [Flutter Crash Course](https://www.youtube.com/watch?v=VPvVD8t02U8)
 - **Courses:**
   - [The Complete Flutter Development Bootcamp on Udemy](https://www.udemy.com/course/flutter-development-bootcamp-with-dart/) 📖
-  - [YouTube - Flutter Crash Course](https://www.youtube.com/results?search_query=flutter+crash+course) 🎥
+  - [YouTube - Flutter Crash Course](https://www.youtube.com/watch?v=VPvVD8t02U8) 🎥
 
 ---
 
@@ -176,7 +190,8 @@ The PERN stack is a SQL-based alternative to MERN that uses PostgreSQL.
 ### Learning Resources
 - **Courses:**
   - [Udemy - Fullstack React with PostgreSQL](https://www.udemy.com/course/fullstack-react-with-postgresql/) 📖 
-  - [YouTube - PERN Stack Tutorial](https://www.youtube.com/results?search_query=pern+stack+tutorial) 🎥 
+  - [YouTube - PERN Stack Tutorial](https://www.youtube.com/watch?v=ldYcgPKEZC8) 🎥 
+  - [YouTube - Postgres Crash Course](https://www.youtube.com/watch?v=SpfIwlAYaKk) 🎥
 
 ---
 
@@ -193,7 +208,7 @@ The Django stack is excellent for web development using Python's Django framewor
 ### Learning Resources
 - **Courses:**
   - [Udemy - Django & React: The Complete Guide](https://www.udemy.com/course/django-react-full-stack-web-development/) 📖 
-  - [YouTube - Django Crash Course](https://www.youtube.com/results?search_query=django+crash+course) 🎥 
+  - [YouTube - Django Crash Course](https://www.youtube.com/watch?v=F5mRW0jo-U4&t=302s) 🎥
 
 ---
 
@@ -212,6 +227,9 @@ DevOps practices enhance collaboration between development and operations teams.
 - **Courses:**
   - [Udemy - Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) 📖 
   - [YouTube - DevOps Tutorial for Beginners](https://www.youtube.com/results?search_query=devops+tutorial) 🎥 
+  - [YouTube - Docker Crash Course](https://www.youtube.com/watch?v=fqMOX6JJhGo) 🎥
+  - [YouTube - Kubernetes Crash Course](https://www.youtube.com/watch?v=d6WC5n9G_sM) 🎥
+  - [YouTube - Full Devops Crash Course](https://www.youtube.com/watch?v=hQcFE0RD0cQ) 🎥
 
 ---
 
@@ -237,10 +255,17 @@ is the most perfect set for a breakthrough in this domain.
 - **Data Analysis**: [Pandas Docs](https://pandas.pydata.org/docs/) | [NumPy Docs](https://numpy.org/doc/)
 - **Machine Learning**: [Scikit-learn Docs](https://scikit-learn.org/stable/) | [Andrew Ng ML Course](https://www.coursera.org/learn/machine-learning)
 - **Deep Learning**: [TensorFlow Docs](https://www.tensorflow.org/learn) | [PyTorch Tutorials](https://pytorch.org/tutorials/)
+- **Google's Machine Learning Crash Course**: [ML Crash Course](https://developers.google.com/machine-learning/crash-course)  
+- **Fast.ai's Practical Deep Learning**: [Fast.ai](https://course.fast.ai/)  
+- **Python for Data Science Handbook**: [Book](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 - **YouTube**: [AI/ML Crash Course](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
 - **Courses:**
   - [Udemy - Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) 📖 
-  - [YouTube - AI For Everyone by Andrew Ng](https://www.youtube.com/results?search_query=ai+for+everyone) 🎥 
+  - [YouTube - AI For Everyone by Andrew Ng](https://www.youtube.com/results?search_query=ai+for+everyone) 🎥
+  - **Machine Learning Tutorial for Beginners**: [YouTube](https://www.youtube.com/watch?v=Gv9_4yMHFhI)  
+  - **Deep Learning with PyTorch**: [YouTube](https://www.youtube.com/watch?v=EMXfZB8FVUA)  
+  - **Complete TensorFlow Course**: [Udemy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)  
+
 
 ---
 
@@ -265,10 +290,16 @@ Blockchain technology is transforming finance through decentralized applications
 - **Ethereum & Solidity**: [Ethereum Docs](https://ethereum.org/en/developers/docs/) | [CryptoZombies](https://cryptozombies.io/)
 - **Hardhat**: [Hardhat Docs](https://hardhat.org/getting-started/)
 - **Web3.js**: [Web3.js Docs](https://web3js.readthedocs.io/)
+- **Solidity by Example**: [Solidity Docs](https://soliditylang.org/)  
+- **Buildspace Blockchain Projects**: [Buildspace](https://buildspace.so/) 
 - **YouTube**: [Blockchain Crash Course](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - **Courses:**
   - [Udemy - Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) 📖 
   - [YouTube - Blockchain Developer Bootcamp with Solidity](https://www.youtube.com/results?search_query=blockchain+developer+solidity+tutorial) 🎥 
+  - **Solidity Tutorial for Beginners**: [YouTube](https://www.youtube.com/watch?v=ipwxYa-F1uY)  
+  - **Full Blockchain Development Course**: [YouTube](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+  - **Blockchain A-Z™: Learn How To Build Your First Blockchain**: [Udemy](https://www.udemy.com/course/build-your-blockchain-az/)  
+
 
 ---
 
@@ -284,7 +315,7 @@ The Spring Boot + React stack is popular for enterprise-level applications.
 ### Learning Resources 
 - **Courses:**
   - [Udemy - Full Stack Java Developer Course with Spring Boot and React](https://www.udemy.com/course/full-stack-java-developer-course-with-springboot-and-react/) 📖 
-  - [YouTube - Spring Boot + React Tutorial](https://www.youtube.com/results?search_query=spring+boot+react+tutorial) 🎥 
+  - [YouTube - Spring Boot + React Tutorial](https://www.youtube.com/watch?v=729Pd-ZQ4uA&list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q) 🎥 
 
 ---
 
@@ -300,7 +331,7 @@ Rust is gaining popularity due to its performance and safety features.
 ### Learning Resources 
 - **Courses:**
   - [Udemy - Rust Programming By Example](https://www.udemy.com/course/rust-programming-by-example/) 📖 
-  - [YouTube - Rust Crash Course](https://www.youtube.com/results?search_query=rust+crash+course) 🎥 
+  - [YouTube - Rust Crash Course](https://www.youtube.com/watch?v=BpPEoZW5IiY) 🎥 
 
 ---
 
